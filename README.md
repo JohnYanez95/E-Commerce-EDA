@@ -9,4 +9,4 @@ The objective of this notebook observe patterns and trends for:
 
 Details on techniques used will be provided within the summary portion of the notebook.
 
-Click the following link to be relocated the notebook: https://github.com/JohnYanez95/E-Commerce-EDA/blob/main/E%20Commerce%20Exploratory%20Data%20Analysis%20(EDA).ipynbm
+Click the following link to be relocated the notebook: https://github.com/JohnYanez95/E-Commerce-EDA/blob/main/E%20Commerce%20Exploratory%20Data%20Analysis%20(EDA).ipynb
